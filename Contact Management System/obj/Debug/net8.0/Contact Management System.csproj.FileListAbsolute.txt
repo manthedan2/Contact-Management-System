@@ -1,0 +1,28 @@
+C:\Users\LADotNet\Desktop\PRACTICE\Contact Management System\bin\Debug\net8.0\Contact Management System.exe
+C:\Users\LADotNet\Desktop\PRACTICE\Contact Management System\bin\Debug\net8.0\Contact Management System.deps.json
+C:\Users\LADotNet\Desktop\PRACTICE\Contact Management System\bin\Debug\net8.0\Contact Management System.runtimeconfig.json
+C:\Users\LADotNet\Desktop\PRACTICE\Contact Management System\bin\Debug\net8.0\Contact Management System.dll
+C:\Users\LADotNet\Desktop\PRACTICE\Contact Management System\bin\Debug\net8.0\Contact Management System.pdb
+C:\Users\LADotNet\Desktop\PRACTICE\Contact Management System\obj\Debug\net8.0\Contact Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LADotNet\Desktop\PRACTICE\Contact Management System\obj\Debug\net8.0\Contact Management System.AssemblyInfoInputs.cache
+C:\Users\LADotNet\Desktop\PRACTICE\Contact Management System\obj\Debug\net8.0\Contact Management System.AssemblyInfo.cs
+C:\Users\LADotNet\Desktop\PRACTICE\Contact Management System\obj\Debug\net8.0\Contact Management System.csproj.CoreCompileInputs.cache
+C:\Users\LADotNet\Desktop\PRACTICE\Contact Management System\obj\Debug\net8.0\Contact Management System.dll
+C:\Users\LADotNet\Desktop\PRACTICE\Contact Management System\obj\Debug\net8.0\refint\Contact Management System.dll
+C:\Users\LADotNet\Desktop\PRACTICE\Contact Management System\obj\Debug\net8.0\Contact Management System.pdb
+C:\Users\LADotNet\Desktop\PRACTICE\Contact Management System\obj\Debug\net8.0\Contact Management System.genruntimeconfig.cache
+C:\Users\LADotNet\Desktop\PRACTICE\Contact Management System\obj\Debug\net8.0\ref\Contact Management System.dll
+C:\Users\LADotNet\Desktop\PRACTICE\BSCS 2-2 DATA STRUCTURES 1ST SUBMISSION\Contact Management System\bin\Debug\net8.0\Contact Management System.exe
+C:\Users\LADotNet\Desktop\PRACTICE\BSCS 2-2 DATA STRUCTURES 1ST SUBMISSION\Contact Management System\bin\Debug\net8.0\Contact Management System.deps.json
+C:\Users\LADotNet\Desktop\PRACTICE\BSCS 2-2 DATA STRUCTURES 1ST SUBMISSION\Contact Management System\bin\Debug\net8.0\Contact Management System.runtimeconfig.json
+C:\Users\LADotNet\Desktop\PRACTICE\BSCS 2-2 DATA STRUCTURES 1ST SUBMISSION\Contact Management System\bin\Debug\net8.0\Contact Management System.dll
+C:\Users\LADotNet\Desktop\PRACTICE\BSCS 2-2 DATA STRUCTURES 1ST SUBMISSION\Contact Management System\bin\Debug\net8.0\Contact Management System.pdb
+C:\Users\LADotNet\Desktop\PRACTICE\BSCS 2-2 DATA STRUCTURES 1ST SUBMISSION\Contact Management System\obj\Debug\net8.0\Contact Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LADotNet\Desktop\PRACTICE\BSCS 2-2 DATA STRUCTURES 1ST SUBMISSION\Contact Management System\obj\Debug\net8.0\Contact Management System.AssemblyInfoInputs.cache
+C:\Users\LADotNet\Desktop\PRACTICE\BSCS 2-2 DATA STRUCTURES 1ST SUBMISSION\Contact Management System\obj\Debug\net8.0\Contact Management System.AssemblyInfo.cs
+C:\Users\LADotNet\Desktop\PRACTICE\BSCS 2-2 DATA STRUCTURES 1ST SUBMISSION\Contact Management System\obj\Debug\net8.0\Contact Management System.csproj.CoreCompileInputs.cache
+C:\Users\LADotNet\Desktop\PRACTICE\BSCS 2-2 DATA STRUCTURES 1ST SUBMISSION\Contact Management System\obj\Debug\net8.0\Contact Management System.dll
+C:\Users\LADotNet\Desktop\PRACTICE\BSCS 2-2 DATA STRUCTURES 1ST SUBMISSION\Contact Management System\obj\Debug\net8.0\refint\Contact Management System.dll
+C:\Users\LADotNet\Desktop\PRACTICE\BSCS 2-2 DATA STRUCTURES 1ST SUBMISSION\Contact Management System\obj\Debug\net8.0\Contact Management System.pdb
+C:\Users\LADotNet\Desktop\PRACTICE\BSCS 2-2 DATA STRUCTURES 1ST SUBMISSION\Contact Management System\obj\Debug\net8.0\Contact Management System.genruntimeconfig.cache
+C:\Users\LADotNet\Desktop\PRACTICE\BSCS 2-2 DATA STRUCTURES 1ST SUBMISSION\Contact Management System\obj\Debug\net8.0\ref\Contact Management System.dll
